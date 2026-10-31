@@ -12,4 +12,3 @@ A game developed with Unity 6 for macOS.
 - Engine: Unity 6
 - Platform: macOS
 - Release: v1.0.0
-- # unity-maze-game
